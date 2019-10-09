@@ -37,3 +37,5 @@ Importanti nella composizione sono state anche le aperture sulla coorte, sulla p
 ![Tavola 4](/images/Post Expo Dubai 2020/04.jpg)
 
 Le metrature degli edifici sono rispettivamente di 12.000 m<sup>2</sup> per ogni ala esterna, suddivisi su 5 piani, e di 3.000 m<sup>2</sup> per ogni torre che si innalza per 7 piani, per complessivi **30.000 m<sup>2</sup>**.
+
+
