@@ -65,6 +65,8 @@ disqusShortname = "serrisi"
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
+    fontsUseGoogleApis = "true"
+
 [params.gravatar]
     #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
 
@@ -191,3 +193,22 @@ clientSecret = "" # Your client secret
     clientId = ""           # Your client ID
     clientSecret = ""       # Your client secret
 
+
+# Font
+
+[params.googleApiFonts.family]
+  tagsText        = [ "html", "body" ]
+  tagsHeading     = [ "h1", "h2", "h3", "h4", "h5", "h6" ]
+  tagsMono        = [ "pre", "code" ]
+  fallbackText    = "html"
+  fallbackHeading = "heading"
+  fallbackMono    = "pre"
+
+[params.googleApiFonts.family.html]
+  sans-serif    = "Droid Sans"
+
+[params.googleApiFonts.family.heading]
+  sans-serif    = "Droid Sans"
+
+[params.googleApiFonts.family.pre]
+  monospace  = "Droid Sans Mono"

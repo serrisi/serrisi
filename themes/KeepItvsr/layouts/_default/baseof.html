@@ -1,3 +1,6 @@
+{{- if $.Site.Params.fontsUseGoogleApis }}
+    {{ partial `head.fonts.googleapis.html` . -}}
+{{- end }}
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   {{ partial "head.html" . }}
