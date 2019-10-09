@@ -6,7 +6,8 @@ draft: false
 
 # Connecting minds, Creatings the future
 
-
+<img src="/images/Post Expo Dubai 2020/Copertina.jpg"
+     alt="Markdown Monster icon"/>
 
 Dubai è la città capitale di uno dei sette emirati che compongono gli Emirati Arabi Uniti. Si trova a sud del Golfo Persico nella Penisola Araba. Ha la più grande popolazione ed è il secondo più grande emirato per area dopo Abu Dhabi. Dubai e Abu Dhabi, secondo la legislazione nazionale, sono inoltre gli unici due emirati ad avere potere di veto riguardo a questioni critiche di rilevanza nazionale. 
 
