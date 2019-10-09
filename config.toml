@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Serrisi"
 theme = "KeepItvsr"
 
 paginate = 12
