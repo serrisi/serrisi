@@ -9,7 +9,7 @@ draft: false
 <img src="/images/Post Expo Dubai 2020/Copertina.jpg"
      alt="Markdown Monster icon"/>
 
- PROVA Dubai è la città capitale di uno dei sette emirati che compongono gli Emirati Arabi Uniti. Si trova a sud del Golfo Persico nella Penisola Araba. Ha la più grande popolazione ed è il secondo più grande emirato per area dopo Abu Dhabi. Dubai e Abu Dhabi, secondo la legislazione nazionale, sono inoltre gli unici due emirati ad avere potere di veto riguardo a questioni critiche di rilevanza nazionale. 
+Dubai è la città capitale di uno dei sette emirati che compongono gli Emirati Arabi Uniti. Si trova a sud del Golfo Persico nella Penisola Araba. Ha la più grande popolazione ed è il secondo più grande emirato per area dopo Abu Dhabi. Dubai e Abu Dhabi, secondo la legislazione nazionale, sono inoltre gli unici due emirati ad avere potere di veto riguardo a questioni critiche di rilevanza nazionale. 
 
 In Programma **dal 20 ottobre 2020 al 10 aprile 2021**, Expo Dubai avvierà le celebrazione del **Giubileo d’oro** del paese, funzionando da trampolino di lancio per inaugurare un visione sostenibile e progressista per i prossimi decenni. Sono attesi circa 25 milioni di visitatori, il 70 percento dei quali proverranno da paesi stranieri: sarà la prima Expo in cui la maggioranza di visitatori proverrà da luoghi oltre confine. Tredici dei più importanti studi di architettura di tutto il mondo hanno partecipato a una competizione globale, lanciata nel luglio 2015 da Emaar Properties, per la progettazione dei tre padiglioni tematici: **Opportunità, Mobilità e Sostenibilità**.
 
