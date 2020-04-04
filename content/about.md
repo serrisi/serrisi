@@ -18,3 +18,5 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
+<img src="/images/me\avatar.jpg"
+     alt="Markdown Monster icon"/>
