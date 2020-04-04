@@ -18,5 +18,8 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
-<img src="static\images\me\avatar.jpg"
+<img src="\images\About\asd.png"
+     alt="Markdown Monster icon"/>
+
+<img src="/images/Post Expo Dubai 2020/Copertina.jpg"
      alt="Markdown Monster icon"/>
