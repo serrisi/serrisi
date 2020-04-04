@@ -18,5 +18,5 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
-<img src="static\images\About\asd.png"
+<img src="static\images\About\asd.jpg"
      alt="Markdown Monster icon"/>
