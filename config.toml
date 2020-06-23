@@ -205,10 +205,10 @@ clientSecret = "" # Your client secret
   fallbackMono    = "pre"
 
 [params.googleApiFonts.family.html]
-  sans-serif    = "Roboto"
+  sans-serif    = "Inter"
 
 [params.googleApiFonts.family.heading]
-  sans-serif    = "Roboto"
+  sans-serif    = "RobInteroto"
 
 [params.googleApiFonts.family.pre]
-  monospace  = "Roboto Mono"
+  monospace  = "Inter"
